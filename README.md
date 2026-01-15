@@ -23,4 +23,4 @@ The app consists of two pages. The dashboard page and the management tab.
 
 ## Local deployment
   - The project includes a Dockerfile
-  - Inside the project a docker-compose is included in the dashboardFrontEndDeploymentFolder
+  - Inside the project a docker-compose is included in the dashboardFrontEndDeployment folder
