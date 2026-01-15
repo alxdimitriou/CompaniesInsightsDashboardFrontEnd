@@ -20,3 +20,7 @@ The app consists of two pages. The dashboard page and the management tab.
   - SignalR
   - React Router
   - ReCharts
+
+## Local deployment
+  - The project includes a Dockerfile
+  - Inside the project a docker-compose is included in the dashboardFrontEndDeploymentFolder
