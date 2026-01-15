@@ -111,7 +111,7 @@ export default function AdminDashboard() {
                  ml:'1rem'
               }}
             >
-              Professional
+              User Actions
          </Typography>
         
         <Divider sx={{backgroundColor:"white"}} />
@@ -294,7 +294,7 @@ export default function AdminDashboard() {
                   mt:'1rem',
                   mb:'1rem'
                 }}>
-                Ημερήσιες Συναλλαγλές
+                Daily Transactions
               </Typography>
             <CardActions>
               {/* speed={500000} */}
