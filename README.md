@@ -11,8 +11,9 @@ The latest version of the app is on the develop branch.
 
 The app consists of two pages. The dashboard page and the management tab.
 
-- In the dashboard we can view tabs with information about revenue, low stock product notifications, comparison between revenue and expenseses and the performance metrics.
-
+- In the dashboard tab we can view tabs with information about revenue, low stock product notifications, comparison between revenue and expenseses and the performance metrics.
+- In the management the user has the ability to create and edit company's products. Also user can view live what transactions are being made and the amount the customer pays and 
+  live the whole hourly revenue of current day. 
 ```js
 export default tseslint.config([
   globalIgnores(['dist']),
