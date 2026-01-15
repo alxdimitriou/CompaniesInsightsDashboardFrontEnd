@@ -15,7 +15,7 @@ The app consists of two pages. The dashboard page and the management tab.
 - In the management tab the user has the ability to create and edit company's products. Also user can view live what transactions are being made and the amount the customer pays and 
   live the whole hourly revenue of current day.
 
-## React plugins that where used
+## React plugins that were used
   - Tanstack query
   - Axios
   - MUI
