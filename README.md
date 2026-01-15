@@ -7,9 +7,11 @@ The latest version of the app is on the develop branch.
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+## What info is provided
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+The app consists of two pages. The dashboard page and the management tab.
+
+- In the dashboard we can view tabs with information about revenue, low stock product notifications, comparison between revenue and expenseses and the performance metrics.
 
 ```js
 export default tseslint.config([
