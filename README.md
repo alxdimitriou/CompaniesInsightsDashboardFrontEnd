@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-This is a basic but dashboard with usefull insights for supervision of basic companies data.
+This is a basic dashboard with usefull insights for supervision of basic company's data.
 
 Currently, two official plugins are available:
 
