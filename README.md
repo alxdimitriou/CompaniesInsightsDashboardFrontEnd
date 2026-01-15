@@ -4,7 +4,7 @@ This is a basic dashboard with usefull insights for supervision of basic company
 
 The latest version of the app can be found on the develop branch.
 
-## What use can view on this app
+## What user can view on this app
 
 The app consists of two pages. The dashboard page and the management tab.
 
