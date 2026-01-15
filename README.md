@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a basic but dashboard with usefull insights for supervision of basic companies data.
 
 Currently, two official plugins are available:
 
