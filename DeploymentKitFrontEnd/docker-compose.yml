@@ -1,0 +1,16 @@
+#version: '3'
+#frontend services compose
+#context is the directory Docker can “see” when building an image.
+services:
+    mydashboard.frontend:
+      image: mydashboard.frontend.image
+      build:
+        context: C:\Users\Alexandros\Desktop\AD\PublicRepos\CompaniesInsightsDashboardFrontEnd\CompaniesInsightsDashboardFrontEnd
+        dockerfile: C:\Users\Alexandros\Desktop\AD\PublicRepos\CompaniesInsightsDashboardFrontEnd\CompaniesInsightsDashboardFrontEnd\Dockerfile
+        args:
+          VITE_BASE_URL: ${VITE_BASE_URL}
+          NGINX_CONFIG_PATH: ${NGINX_CONFIG_PATH}
+      ports:
+        - 5173:80
+      env_file:
+        - .env 
